@@ -1,1 +1,1 @@
-sulinggg/openwrt
+hou6807628/openwrt:x86_generic
