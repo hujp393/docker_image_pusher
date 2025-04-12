@@ -1,1 +1,1 @@
-sulinggg/openwrt:x86_64
+istoreos/istoreos:latest
