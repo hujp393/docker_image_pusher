@@ -1,1 +1,1 @@
-shellspec/openwrt
+hou6807628/openwrt
