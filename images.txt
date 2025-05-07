@@ -1,1 +1,2 @@
-archlinux
+KagurazakaNyaa/palworld-docker
+thijsvanloef/palworld-server-docker
