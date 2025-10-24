@@ -1,1 +1,1 @@
-archlinux/archlinux:sha256-23e269d8d3358bb9db5f7dca61249b63cfacfe3235ee96247b6de929637991f0.sig
+archlinux/archlinux:latest
