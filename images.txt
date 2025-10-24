@@ -1,2 +1,2 @@
-yidadaa/chatgpt-next-web
-covfefezdd/lazyvim:1.0
+l33tlamer/yazi
+anatolelucet/neovim:0.11.4-alpine
