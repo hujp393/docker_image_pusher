@@ -1,2 +1,1 @@
-xkand/istoreos
-dreamacro/clash:dev
+ai/deepseek-r1-distill-llama:70B-Q4_0
