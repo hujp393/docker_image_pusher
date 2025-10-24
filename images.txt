@@ -1,1 +1,2 @@
-archlinux/archlinux:latest
+xkand/istoreos
+dreamacro/clash:dev
