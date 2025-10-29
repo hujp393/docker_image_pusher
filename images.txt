@@ -1,2 +1,1 @@
-l33tlamer/yazi
-anatolelucet/neovim:0.11.4-alpine
+rustdesk-builder
