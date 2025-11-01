@@ -1,1 +1,1 @@
-rustdesk-builder
+linkease/istorepanel:latest
