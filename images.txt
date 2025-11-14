@@ -1,1 +1,1 @@
-mcp/git
+linkease/kspeeder:latest
