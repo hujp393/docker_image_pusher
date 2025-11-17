@@ -1,1 +1,1 @@
-rustdesk-builder:latest
+python
